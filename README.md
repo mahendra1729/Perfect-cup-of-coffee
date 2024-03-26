@@ -14,13 +14,21 @@ RECOMMONDATIONS:
 
 Target Audience
 Demographics: The primary focus is on adults aged 25–34, predominantly Caucasian and Pacific Islander, encompassing both males and females.
+
 Consumption Habits: They typically indulge in 2–3 cups of coffee daily, with a preference for enjoying it at home or work rather than on-the-go.
+
 Purchase Behavior: They frequently buy coffee from specialty coffee shops, national chains, and local cafes.
+
 Employment Status: Most are either fully employed or part-time workers, with a smaller portion being homemakers, students, retired individuals, or unemployed.
+
 Product Analysis
 Preferred Coffee Drinks: Pour-over ranks as the top choice, followed by Latte and Regular Drip Coffee.
+
 Taste Preferences: The majority favor somewhat strong, light to medium roast, full-caffeine coffee with no additives. However, a notable portion prefers to add milk/dairy or sugar/syrup.
+
 Favorite Coffee: Respondents show a preference for Coffee D, characterized by low bitterness and high acidity.
+
 Price Analysis
 Spending Habits: Most respondents allocate a monthly budget of $20-$40 for coffee or related products.
+
 Price Sensitivity: The peak spending on a single cup of coffee typically ranges between $6-$8, while the maximum amount respondents are willing to pay extends to $8-$10.
